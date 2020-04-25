@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reset Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="reset">Reset</string>
+</resources>
